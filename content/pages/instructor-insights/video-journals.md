@@ -1,9 +1,12 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 8dbde195-f51c-ed78-ae8b-c3d3d1147b23
 title: Video Journals
+type: CourseSection
 uid: 63b69821-cb10-31c1-ad7b-96efd28d3b99
 ---
 

@@ -13,7 +13,9 @@ image_metadata:
   credit: "Image courtesy of Josa J\xFAnior on Flickr. CC BY-NC."
   image-alt: A photograph of the silhouette of a man vaulting over a wall set against
     a blue sky.
+learning_resource_types: []
 resourcetype: Image
 title: es-s71s14-th.jpg
+type: OCWImage
 uid: 76c4eddc-f806-2a08-e966-4e82ccae6e9a
 ---
