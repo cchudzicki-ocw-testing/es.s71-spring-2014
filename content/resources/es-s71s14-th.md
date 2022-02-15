@@ -14,6 +14,7 @@ image_metadata:
   image-alt: A photograph of the silhouette of a man vaulting over a wall set against
     a blue sky.
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: es-s71s14-th.jpg
 uid: 76c4eddc-f806-2a08-e966-4e82ccae6e9a
