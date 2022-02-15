@@ -10,6 +10,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: Consent to Participate in Interviews
-type: OCWFile
 uid: 971fa001-6fb5-958b-1afb-e9eda482a77b
 ---

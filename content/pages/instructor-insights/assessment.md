@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: 8dbde195-f51c-ed78-ae8b-c3d3d1147b23
 title: Assessment
-type: CourseSection
 uid: a842477d-dc95-b8de-22c7-cd15cad313c4
 ---
 

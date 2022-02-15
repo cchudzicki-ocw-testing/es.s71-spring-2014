@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: 8dbde195-f51c-ed78-ae8b-c3d3d1147b23
 title: Advice for Educators
-type: CourseSection
 uid: 527c74d4-9dcb-0e12-f509-3fc48a08bef9
 ---
 

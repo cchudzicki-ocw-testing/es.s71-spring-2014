@@ -10,6 +10,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: Consent to Participate in the Video-Journal
-type: OCWFile
 uid: 5b02504e-599c-dba8-d366-2c104181f007
 ---

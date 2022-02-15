@@ -16,6 +16,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: es-s71s14-th.jpg
-type: OCWImage
 uid: 76c4eddc-f806-2a08-e966-4e82ccae6e9a
 ---
