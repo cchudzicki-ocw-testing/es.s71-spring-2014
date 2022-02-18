@@ -69,7 +69,7 @@ Most every day we'll be moving, doing some form of exercises or physical activit
 Video Journals
 --------------
 
-You'll be expected to submit a video journal entry, no more than 5 minutes in length by the end of each week. Please see the [Assignments]({{< baseurl >}}/pages/assignments) section for more information on this assignment / project.
+You'll be expected to submit a video journal entry, no more than 5 minutes in length by the end of each week. Please see the {{< resource_link 3988c3fc-a172-3afc-3ef8-41ea48585a33 "Assignments" >}} section for more information on this assignment / project.
 
 Outside of Classwork
 --------------------
