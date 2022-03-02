@@ -13,11 +13,11 @@ This class is being offered in conjunction with an MIT research study at the [Si
 
 ### Consent Forms
 
-{{< resource_link 971fa001-6fb5-958b-1afb-e9eda482a77b "Consent to Participate in Interviews (PDF)" >}}
+{{% resource_link 971fa001-6fb5-958b-1afb-e9eda482a77b "Consent to Participate in Interviews (PDF)" %}}
 
-{{< resource_link 7a58101a-10d6-41fd-87f5-f0471f350bcd "Consent to Participate in Non-Biomedical Research" >}} {{< resource_link 7a58101a-10d6-41fd-87f5-f0471f350bcd "(PDF)" >}}
+{{% resource_link 7a58101a-10d6-41fd-87f5-f0471f350bcd "Consent to Participate in Non-Biomedical Research" %}} {{% resource_link 7a58101a-10d6-41fd-87f5-f0471f350bcd "(PDF)" %}}
 
-{{< resource_link 5b02504e-599c-dba8-d366-2c104181f007 "Consent to Participate in the Video-Journal (PDF)" >}}
+{{% resource_link 5b02504e-599c-dba8-d366-2c104181f007 "Consent to Participate in the Video-Journal (PDF)" %}}
 
 ### Background
 

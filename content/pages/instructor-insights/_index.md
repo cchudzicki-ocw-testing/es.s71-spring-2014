@@ -32,10 +32,10 @@ Instructor Insights
 
 _In the following pages, Noah Riskin describes various aspects of how he taught _ES.S71 Increasing Your Physical Intelligence, Enhancing Your Social Smarts_._
 
-*   {{< resource_link 78a9bcd2-5291-c212-452a-181a2bd4e021 "Course Development" >}}
-*   {{< resource_link 63b69821-cb10-31c1-ad7b-96efd28d3b99 "Video Journals" >}}
-*   {{< resource_link a842477d-dc95-b8de-22c7-cd15cad313c4 "Assessment" >}}
-*   {{< resource_link 527c74d4-9dcb-0e12-f509-3fc48a08bef9 "Advice for Educators" >}}
+*   {{% resource_link 78a9bcd2-5291-c212-452a-181a2bd4e021 "Course Development" %}}
+*   {{% resource_link 63b69821-cb10-31c1-ad7b-96efd28d3b99 "Video Journals" %}}
+*   {{% resource_link a842477d-dc95-b8de-22c7-cd15cad313c4 "Assessment" %}}
+*   {{% resource_link 527c74d4-9dcb-0e12-f509-3fc48a08bef9 "Advice for Educators" %}}
 
 Curriculum Information
 ----------------------
@@ -64,7 +64,7 @@ The students' grades were based on the following activities:
 - 34% Video Journal
 
 
-{{< resource_link a842477d-dc95-b8de-22c7-cd15cad313c4 "Read more" >}} about the instructor's thoughts on assessment.
+{{% resource_link a842477d-dc95-b8de-22c7-cd15cad313c4 "Read more" %}} about the instructor's thoughts on assessment.
 
 Student Information
 -------------------
@@ -112,4 +112,4 @@ Open Gym Period
 Out of Class
 ------------
 
-Students worked on their {{< resource_link 3988c3fc-a172-3afc-3ef8-41ea48585a33 "weekly video journal assignments" >}} and practiced warm-up and cool-down exercises.
+Students worked on their {{% resource_link 3988c3fc-a172-3afc-3ef8-41ea48585a33 "weekly video journal assignments" %}} and practiced warm-up and cool-down exercises.
