@@ -7,7 +7,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/es-s71-incre
 file_type: image/jpeg
 image_metadata:
   caption: "A man vaults over a wall, a classic maneuver in Parkour, also called free\
-    \ running. The class talked about Parkour in [session 8](pages/calendar-and-activities#8).\
+    \ running. The class talked about Parkour in [session 8](/courses/es-s71-increasing-your-physical-intelligence-enhancing-your-social-smarts-spring-2014/pages/calendar-and-activities#8).\
     \ (Image courtesy of [Josa J\xFAnior](https://www.flickr.com/photos/josa/124836531)\
     \ on Flickr. CC BY-NC.)"
   credit: "Image courtesy of Josa J\xFAnior on Flickr. CC BY-NC."
