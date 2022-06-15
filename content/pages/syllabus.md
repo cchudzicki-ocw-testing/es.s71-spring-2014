@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, the Experimental Study Group (ESG) at MIT, the instructor, motivation
+  for the course, structure, attendance, absences, optional gym sessions, appropriate
+  clothing, video journals, and work outside the class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

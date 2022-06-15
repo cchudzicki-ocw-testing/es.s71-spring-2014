@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on an MIT research study designed to
+  investigate whether a range of simple, physical exercises can help MIT students
+  with some of the challenges associated with ASD.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
