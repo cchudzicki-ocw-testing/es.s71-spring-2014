@@ -6,6 +6,7 @@ description: Consent form for students participating in an MIT research study de
 file: /courses/es-s71-increasing-your-physical-intelligence-enhancing-your-social-smarts-spring-2014/971fa0016fb5958b1afbe9eda482a77b_MITES_S71S14_cons_inter.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
